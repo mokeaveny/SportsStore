@@ -66,3 +66,4 @@ C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\SportsSln\SportsStore\
 C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
