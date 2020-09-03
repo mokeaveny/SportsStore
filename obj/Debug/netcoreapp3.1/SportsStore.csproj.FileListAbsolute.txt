@@ -89,3 +89,7 @@ C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\SportsSln\SportsStore\
 C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
 C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\OrderTable.razor.g.cs
 C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Details.razor.g.cs
+C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
+C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
+C:\Users\micha\Desktop\Web Development\Pro ASP.NET Core 3\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
